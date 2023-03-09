@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="Task table schema" source="com.glide.task">680424c73d2230100acbff3420d737a3</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>martin.perez.cobo@pwc.com</sys_created_by>
+        <sys_created_on>2023-03-08 15:36:03</sys_created_on>
+        <sys_id>e17fb2001ba5a510708b7597dc4bcbe7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="Code Review" source="214ebe801ba96510f78820662a4bcbb8">214ebe801ba96510f78820662a4bcbb8</sys_package>
+        <sys_updated_by>martin.perez.cobo@pwc.com</sys_updated_by>
+        <sys_updated_on>2023-03-08 15:36:03</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>

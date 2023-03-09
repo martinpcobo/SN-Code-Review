@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="sys_update_set" relationship="" sys_domain="global" table="u_code_review_task" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>number</element>
+            <list_id display_value="u_code_review_task" element="NULL" name="u_code_review_task" parent="sys_update_set" relationship="NULL" sys_domain="global" view="Default view">b3a1f4101be5a510f78820662a4bcba7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>martin.perez.cobo@pwc.com</sys_created_by>
+            <sys_created_on>2023-03-08 23:55:07</sys_created_on>
+            <sys_id>37a1f4101be5a510f78820662a4bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>martin.perez.cobo@pwc.com</sys_updated_by>
+            <sys_updated_on>2023-03-08 23:55:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>priority</element>
+            <list_id display_value="u_code_review_task" element="NULL" name="u_code_review_task" parent="sys_update_set" relationship="NULL" sys_domain="global" view="Default view">b3a1f4101be5a510f78820662a4bcba7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>martin.perez.cobo@pwc.com</sys_created_by>
+            <sys_created_on>2023-03-08 23:55:07</sys_created_on>
+            <sys_id>37a1bc101be5a510f78820662a4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>martin.perez.cobo@pwc.com</sys_updated_by>
+            <sys_updated_on>2023-03-08 23:55:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="u_code_review_task" element="NULL" name="u_code_review_task" parent="sys_update_set" relationship="NULL" sys_domain="global" view="Default view">b3a1f4101be5a510f78820662a4bcba7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>martin.perez.cobo@pwc.com</sys_created_by>
+            <sys_created_on>2023-03-08 23:55:07</sys_created_on>
+            <sys_id>3ba1bc101be5a510f78820662a4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>martin.perez.cobo@pwc.com</sys_updated_by>
+            <sys_updated_on>2023-03-08 23:55:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="u_code_review_task" element="NULL" name="u_code_review_task" parent="sys_update_set" relationship="NULL" sys_domain="global" view="Default view">b3a1f4101be5a510f78820662a4bcba7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>martin.perez.cobo@pwc.com</sys_created_by>
+            <sys_created_on>2023-03-08 23:55:07</sys_created_on>
+            <sys_id>3fa1bc101be5a510f78820662a4bcb45</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>martin.perez.cobo@pwc.com</sys_updated_by>
+            <sys_updated_on>2023-03-08 23:55:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>short_description</element>
+            <list_id display_value="u_code_review_task" element="NULL" name="u_code_review_task" parent="sys_update_set" relationship="NULL" sys_domain="global" view="Default view">b3a1f4101be5a510f78820662a4bcba7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>martin.perez.cobo@pwc.com</sys_created_by>
+            <sys_created_on>2023-03-08 23:55:07</sys_created_on>
+            <sys_id>33a1bc101be5a510f78820662a4bcb46</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>martin.perez.cobo@pwc.com</sys_updated_by>
+            <sys_updated_on>2023-03-08 23:55:07</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>u_code_review_task</name>
+            <parent>sys_update_set</parent>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>martin.perez.cobo@pwc.com</sys_created_by>
+            <sys_created_on>2023-03-08 23:55:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b3a1f4101be5a510f78820662a4bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_code_review_task</sys_name>
+            <sys_package display_value="Code Review" source="214ebe801ba96510f78820662a4bcbb8">214ebe801ba96510f78820662a4bcbb8</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Code Review">214ebe801ba96510f78820662a4bcbb8</sys_scope>
+            <sys_update_name>sys_ui_list_u_code_review_task_sys_update_set_null</sys_update_name>
+            <sys_updated_by>martin.perez.cobo@pwc.com</sys_updated_by>
+            <sys_updated_on>2023-03-08 23:55:07</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

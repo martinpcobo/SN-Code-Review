@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" db_object_id="58008f841ba96510f78820662a4bcbb0" extends="task" label="Code Review Tasks" max_length="40" name="u_code_review_task" type="collection">
+        <element label="Update set" max_length="32" name="u_update_set" reference="sys_update_set" reference_qual="state=review^EQ" reference_qual_condition="state=review^EQ" type="reference"/>
+    </element>
+</database>

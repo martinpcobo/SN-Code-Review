@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="ref_ac_columns=application,ref_ac_columns_search=true,ref_auto_completer=AJAXTableCompleter,scope_master=application" audit="true" db_object_id="6663e0033d2230100acbff3420d737fe" label="Update Set" max_length="40" name="sys_update_set" type="collection">
+        <element audit="true" label="Bypass code review" max_length="40" name="u_bypass_code_review" type="boolean"/>
+        <element label="Code review group" max_length="32" name="u_code_review_group" reference="sys_user_group" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <index name="index">
+            <element name="u_code_review_group"/>
+        </index>
+    </element>
+</database>
